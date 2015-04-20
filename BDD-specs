@@ -1,0 +1,7 @@
+All numbers divisible by 3 return a ping in place of number
+
+All numbers divisible by 5 return a pong in place of number
+
+All numbers divisible by both 3 and 5 get ping-pong in place of number
+
+All numbers not divisible by either 3 or 5
